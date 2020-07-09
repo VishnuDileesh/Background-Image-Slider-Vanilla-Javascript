@@ -1,0 +1,27 @@
+/*
+icons:https://lineicons.com
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #81ecec;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://source.unsplash.com/yQ9mZzBdDAM/1600x900");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+i.lni {
+  color: #e84393;
+  background-color: #dfe6e9;
+  padding: 2em;
+  cursor: pointer;
+}
